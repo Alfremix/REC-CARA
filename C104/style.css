@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(197, 197, 197);   
+}
+h3{
+    font-size: 40px;
+}
+
+*{
+    color: yellow;
+}
+
+#camera{
+    width: 500px;
+    height: 500px;
+}
+span{
+    color: rgb(62, 117, 213);
+}
